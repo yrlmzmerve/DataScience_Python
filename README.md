@@ -1,7 +1,7 @@
 # DataScience and Python
 
 1. Introduction
-2. Kaggle and Data Science
+2. Data Science
 3. Introduction to Python
 4. Python Data Science Toolbox
 5. Cleaning Data
